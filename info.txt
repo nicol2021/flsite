@@ -1,0 +1,25 @@
+01. flasksite -> continuation of "ustaval"   [10.05.2022]
+	.h[ps[ht] -- 11.04.2022 -- uyhr_4dyhlije_1s2s3u4a__kjr_dg5437@577111]
+	.h[==>>yeio491dflijeburmasshyrpowru784jeio6128000]
+	.h[===urt4850hgflidjecotburmasshwurbdhj34893710]
+	.h[===jti3rlldlidjestrburmasshnfkghuy64931235]
+
+02. links:	https://proproprogs.ru/flask/sozdanie-bd-ustanovlenie-i-razryv-soedineniya-pri-zaprosah
+		https://github.com/selfedu-rus/flasksite-17
+
+03. adviсe: 1)To avoid an error, do not create or specify README files, license, and gitignore in the repository. You will be able to add all of this after adding the project to the repository.
+
+04. project management:
+	1)[create...] -> flsite.py     [development view -> app.run(debug=True)]	
+	> cd D:\OneDrive\flasksite	[cd /d D:\OneDrive\flasksite]
+   	> python -m venv fls/
+   	> fls\Scripts\activate
+   	> pip install flask
+	----------
+	2)[next...]
+	> cd D:\OneDrive\flasksite	[cd /d D:\OneDrive\flasksite]
+   	> fls\Scripts\activate
+   	> D:\OneDrive\flasksite\flsite.py
+       		* Running on http://127.0.0.1:5000/
+
+05. xxx
