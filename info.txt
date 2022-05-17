@@ -22,4 +22,14 @@
    	> D:\OneDrive\flasksite\flsite.py
        		* Running on http://127.0.0.1:5000/
 
-05. xxx
+05. git:
+	> cd D:\OneDrive\flasksite	[cd /d D:\OneDrive\flasksite]
+	> git status
+	> git add . 	[git add x1.txt x2.txt]
+	> git commit -m "up_xxxxxx"
+	> git remote -v
+	> git push origin master
+
+06. xxx
+
+
