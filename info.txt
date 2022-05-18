@@ -27,7 +27,7 @@
 	> git status
 	> git add . 	[git add x1.txt x2.txt]
 	> git commit -m "up_xxxxxx"
-	> git remote -v
+	> git remote -v		[git remote add origin git@github.com:nicol2021/xxx.git]
 	> git push origin master
 
 06. xxx
