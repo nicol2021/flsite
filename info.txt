@@ -14,12 +14,13 @@
 	> cd D:\OneDrive\flasksite	[cd /d D:\OneDrive\flasksite]
    	> python -m venv fls/
    	> fls\Scripts\activate
+	> (fls) D:\OneDrive\flasksite>
    	> pip install flask
 	----------
 	2)[next...]
 	> cd D:\OneDrive\flasksite	[cd /d D:\OneDrive\flasksite]
    	> fls\Scripts\activate
-   	> D:\OneDrive\flasksite\flsite.py
+	> (fls) D:\OneDrive\flasksite\flsite.py
        		* Running on http://127.0.0.1:5000/
 
 05. git:
@@ -30,6 +31,12 @@
 	> git remote -v		[git remote add origin git@github.com:nicol2021/xxx.git]
 	> git push origin master
 
-06. xxx
+06. create bd:
+	> (fls) D:\OneDrive\flasksite>
+	> py
+	>>> from flsite import create_db
+	>>> create_db()
+
+07. xxx
 
 
